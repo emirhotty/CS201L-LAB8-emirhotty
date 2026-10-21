@@ -1,0 +1,40 @@
+﻿Type,Name,Manufacturer,Year,Cost,Strings,Frets,Bowed
+Drums,Rydeen,Yamaha,2023,420,,,
+Drums,DD75,Yamaha,2024,300,,,
+Drums,Nitro Max,Alesis,2023,399,,,
+Drums,Nitro Max 2,Alesis,error,399,,,
+Drums,DED-200,Donner,2023,336,,,
+Drums,DED-80,Donner,2023,216,,,
+Base Guitar,39RH,Glarry,2024,99,4,22,0
+Base Guitar,39LH,Glarry,2024,99,4,22,error
+Base Guitar,Nova Go SP1,Enya,2024,200,4,24,0
+Base Guitar,Squire,Fender,2023,380,4,22,0
+Acoustic Guitar,Dreadnought,Fender,2024,190,5,20,0
+Acoustic Guitar,FA-25,Fender,2024,100,5,20,0
+Acoustic Guitar,AF227A,Winzz,2022,128,5,20,0
+Electric Guitar,Squire,Fender,2023,360,5,22,0
+Electric Guitar,Squire,Fender,2023,error,5,22,0
+Electric Guitar,Squire Stratocaster,Fender,2023,300,5,22,0
+Electric Guitar,GRG121,Ibanez,2023,230,5,22,0
+Electric Guitar,Pacifica PAC12,Yamaha,2024,220,5,24,0
+Violin,SV-500,Cremona,2023,340,4,0,1
+Violin,VLSNV588,Cremona,2024,290,4,0,1
+Violin,SV-130,Cremona,2023,230,4,0,1
+Violin,Primo,Antonio Guiliani,2024,585,4,0,1
+Violin,G2,Louis Carpini,2024,705,4,0,1
+Cello,Mendini,Celilio,2023,249,4,0,1
+Cello,PTTCS300,Paititi,2023,412,4,0,1
+Cello,CC0-600,Celilio,2024,551,4,0,1
+Base   ,SB200,Shen,2023,6500,4,0,1
+Base   ,SB150,Shen,2023,4500,4,0,1
+Base   ,Gamba,Wilhelm Eberle,2023,3500,4,0,1
+Base   ,Concrd Double,Upton,2024,10500,4,0,1
+Base   ,Karr,Upton,2024,6500,4,0,1
+Base   ,Santaguiliana,Upton,2024,32000,4,0,1
+Saxophone,AS-400,Jean Paul,2023,602,,,
+Saxophone,Pink Tenor,Eastrock,2023,357,,,
+Saxophone,Superior Alto,Herche,2024,599,,,
+Saxophone,YAS-280,Yamaha,2023,1165,,,
+Flute,C Flute,Eastrock,2024,90,,,
+Flute,Superior M2,Herche,2023,329,,,
+Flute,1SP,Gemeinhardt,2024,349,,,
